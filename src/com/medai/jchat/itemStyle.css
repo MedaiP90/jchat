@@ -1,0 +1,21 @@
+.item {
+    -fx-background-color: white;
+}
+.item:hover {
+    -fx-background-color: lightgrey;
+}
+.item:focused {
+    -fx-background-color: lightblue;
+}
+.new {
+    -fx-background-color: #F0E68C;
+}
+.new:hover {
+    -fx-background-color: #FFD700;
+}
+.sent {
+    -fx-background-color: lightgrey;
+}
+.received {
+    -fx-background-color: lightblue;
+}
